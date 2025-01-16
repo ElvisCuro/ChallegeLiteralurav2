@@ -1,7 +1,9 @@
-package com.literatura.challenge_2_back_literatura.models;
+package com.alura.challenge.model;
+
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.literatura.challenge_2_back_literatura.models.records.DatosLibro;
+import com.alura.challenge.model.records.DatosLibro;
+
 import java.util.List;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
