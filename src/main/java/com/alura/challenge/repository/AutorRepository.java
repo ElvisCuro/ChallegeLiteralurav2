@@ -8,17 +8,11 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
-import java.util.Optional;
 
 @Repository
 public interface AutorRepository extends JpaRepository<Autor,Long> {
 
     List<Autor> findAll();
-
-
-    List<Autor> findByCumpleaniosLessThanOrFechaFallecimientoGreaterThanEqual(int anioBuscado, int anioBuscado1);
-
-    Optional<Autor> findFirstByNombreContainsIgnoreCase(String escritor);
 
     @Query("""
        SELECT a FROM Autor a 

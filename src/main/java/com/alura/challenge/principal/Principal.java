@@ -10,7 +10,6 @@ import com.alura.challenge.service.ConvierteDatos;
 import org.springframework.dao.InvalidDataAccessApiUsageException;
 import org.springframework.transaction.annotation.Transactional;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -19,7 +18,6 @@ public class Principal {
     private ConsumoAPI consumoApi = new ConsumoAPI();
     private ConvierteDatos conversor = new ConvierteDatos();
     private static final String API_BASE = "https://gutendex.com/books/?search=";
-    private List<Libro> datosLibro = new ArrayList<>();
     private LibroRepository libroRepository;
     private AutorRepository autorRepository;
 

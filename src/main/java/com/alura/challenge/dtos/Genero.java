@@ -1,14 +1,16 @@
 package com.alura.challenge.dtos;
 
 public enum Genero {
+
     ACCION ("Action"),
-    ROMANCE ("Romance"),
+    AVENTURA ("Adventure"),
     CRIMEN ("Crime"),
     COMEDIA ("Comedy"),
     DRAMA ("Drama"),
-    AVENTURA ("Adventure"),
+    DESCONOCIDO ("Desconocido"),
     FICCION ("Fiction"),
-    DESCONOCIDO("Desconocido");
+    ROMANCE ("Romance");
+
 
     private String genero;
 
