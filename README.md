@@ -60,3 +60,12 @@ Ejemplo de consulta:
 Proyecto bajo licencia **MIT**.
 
 --- 
+
+##Ejecucion
+
+![Captura de pantalla 2025-01-16 020456](https://github.com/user-attachments/assets/9e8de1da-6554-4222-8661-6ddb5eb83045)
+
+![Captura de pantalla 2025-01-16 020544](https://github.com/user-attachments/assets/1bad26f2-3e73-4300-b49e-efdaf6757ede)
+![Captura de pantalla 2025-01-16 020608](https://github.com/user-attachments/assets/5930a7f9-64c4-4060-9e6a-ab89914fe633)
+![Captura de pantalla 2025-01-16 020632](https://github.com/user-attachments/assets/2acf9e01-9292-44d2-bc28-fd156eb5edcb)![Captura de pantalla 2025-01-16 020659](https://github.com/user-attachments/assets/d3d91335-eae1-4a01-94b0-e15eb6dfff86)
+
